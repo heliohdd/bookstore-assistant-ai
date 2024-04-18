@@ -42,7 +42,7 @@ mvnw.cmd
 - Clonar repositório `git@github.com:heliohdd/bookstore-assistant-ai.git`
 - Fazer o build do projeto `./mvnw clean package`
 - Subir a aplicação `java -jar /target/bookstore-assistant-ai-0.0.1-SNAPSHOT.jar`
-- Conferir o resultado da API usando o `Postman` com os endpoints abaixo
+- Conferir o resultado da API usando o `Postman` em `http://localhost:8080` com os endpoints abaixo
 # Endpoints
 
 | HTTP Verb | Endpoint                       | Ação                                                                       |
